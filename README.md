@@ -81,10 +81,16 @@
 
 ### Single Stake Pool
 
-  - [Zellic Audit (2023-06-21](./spl/ZellicSinglePoolAudit-2023-06-21.pdf)
-  - [Neodyme Audit (2023-08-08](./spl/NeodymeSinglePoolAudit-2023-08-08.pdf)
-  - [Zellic Audit (2024-01-02](./spl/ZellicSinglePoolAudit-2024-01-02.pdf)
+  - [Zellic Audit (2023-06-21).pdf](./spl/ZellicSinglePoolAudit-2023-06-21.pdf)
+  - [Neodyme Audit (2023-08-08).pdf](./spl/NeodymeSinglePoolAudit-2023-08-08.pdf)
+  - [Zellic Audit (2024-01-02).pdf](./spl/ZellicSinglePoolAudit-2024-01-02.pdf)
 
 ### Governance
 
-  - [OtterSec Audit (2022-09-12)](./spl/OtterSecGovernanceAudit-2022-09-12.pdf)
+  - [OtterSec Audit (2022-09-12).pdf](./spl/OtterSecGovernanceAudit-2022-09-12.pdf)
+
+## Core BPF Programs
+
+### Address-Lookup-Table, Config, Feature-Gate
+
+  - [Zellic Audit (2024-10-29).pdf](./core-bpf/ZellicAltConfigFeatureGateAudit-2024-10-29.pdf)

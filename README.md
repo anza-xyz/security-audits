@@ -89,6 +89,11 @@
 
   - [OtterSec Audit (2022-09-12).pdf](./spl/OtterSecGovernanceAudit-2022-09-12.pdf)
 
+### Token Wrap
+
+- [Zellic Audit (2025-05-16).pdf](./spl/ZellicTokenWrapAudit-2025-05-16.pdf)
+- [Runtime Verification Audit (2025-06-11).pdf](./spl/RuntimeVerificationTokenWrapAudit-2025-06-11.pdf)
+
 ## Core BPF Programs
 
 ### Address-Lookup-Table, Config, Feature-Gate

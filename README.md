@@ -86,6 +86,7 @@
 
 - [Zellic Audit (2025-05-16).pdf](./spl/ZellicTokenWrapAudit-2025-05-16.pdf)
 - [Runtime Verification Audit (2025-06-11).pdf](./spl/RuntimeVerificationTokenWrapAudit-2025-06-11.pdf)
+- [Runtime Verification Audit (2025-10-30).pdf](./spl/RuntimeVerificationTokenWrapAudit-2025-10-30.pdf)
 
 ### P-Token
 

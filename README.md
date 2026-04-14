@@ -116,6 +116,7 @@
 ### Stake
 
   - [Zellic Audit (2025-03-12).pdf](./core-bpf/ZellicStakeProgramAudit-2025-03-12.pdf)
+  - [Neodyme Audit (2026-04-10).pdf](./core-bpf/NeodymeStakeProgramAudit-2026-04-10.pdf)
 
 ## SDKs
 

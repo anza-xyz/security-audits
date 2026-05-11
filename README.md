@@ -106,6 +106,8 @@
   - [Zellic Audit (2025-06-30).pdf](./spl/ZellicPTokenPinocchioAudit-2025-06-30.pdf)
   - [Zellic Audit (2025-10-13).pdf](./spl/ZellicPTokenAudit-2025-10-13.pdf)
   - [Runtime Verification (2026-01-26)](https://github.com/runtimeverification/solana-token/blob/proofs/RV_EQUIVALENCE_PROOFS_REPORT.md)
+  - [Zellic Audit (2026-03-26).pdf](./spl/ZellicPTokenAudit-2026-03-26.pdf)
+  - [Certora Formal Verification (2026-05-11).pdf](./spl/CertoraPTokenFV-2026-05-11.pdf)
 
 ## Core BPF Programs
 

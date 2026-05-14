@@ -73,7 +73,7 @@
   - [Trail of Bits Audit B (2026-01-30).pdf](./spl/TrailOfBitsToken2022AuditB-2026-01-30.pdf)
   - [Code4rena Audit (2025-11-5).pdf](./spl/Code4renaXSolanaFoundation-2025-11-5.pdf)
   - [Zellic Audit (2025-12-16).pdf](./spl/ZellicToken2022Audit-2025-12-16.pdf)
-  - [Qedit Audit (2025-12-19)](https://www.notion.so/qed-it/Solana-s-Confidential-Transfer-Audit-Final-report-2a0296c1155280b98e7cd2aa204190f4)
+  - [Qedit Audit (2025-12-19).pdf](./spl/QeditToken2022Audit-2025-12-19.pdf)
 
 ### Account Compression
 

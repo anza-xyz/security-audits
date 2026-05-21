@@ -41,6 +41,14 @@
   - [OtterSec v0.1.2 Audit (2026-01-26).pdf](./solana/Wincode_v0.1.2_Ottersec_Audit.pdf)
   - Asymmetric Research v0.1.2 review (2026-01)
 
+### RTS Alloc
+
+  - [OtterSec Audit (2026-05-05).pdf](./solana/RtsAlloc_f4634ad_Ottersec_Audit.pdf)
+
+### Shaq
+
+  - [OtterSec v2.0.0 Audit (2026-05-05).pdf](./solana/Shaq_v2.0.0_Ottersec_Audit.pdf)
+
 ## Solana Program Library
 
 ### Token

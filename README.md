@@ -49,6 +49,11 @@
 
   - [OtterSec v2.0.0 Audit (2026-05-05).pdf](./solana/Shaq_v2.0.0_Ottersec_Audit.pdf)
 
+### bls12-381-syscall
+
+  - [NCC (2026-02-26).pdf](./spl/NCCBLS12-381andBLSSignature-2026-05-12.pdf)
+  - [Least Authority Audit (2026-05-22).pdf](./spl/LeastAuthorityBLS12-381andBLSSignature-2026-05-22.pdf)
+
 ## Solana Program Library
 
 ### Token
@@ -140,3 +145,5 @@
 ### solana-bls-signatures crate
 
   - [Trail of Bits Audit (2026-02-26).pdf](https://github.com/trailofbits/publications/blob/master/reviews/2026-03-anza-blssignatures-securityreview.pdf)
+  - [NCC Audit (2026-05-12).pdf](./spl/NCCBLS12-381andBLSSignature-2026-05-12.pdf)
+  - [Least Authority Audit (2026-05-22).pdf](./spl/LeastAuthorityBLS12-381andBLSSignature-2026-05-22.pdf)

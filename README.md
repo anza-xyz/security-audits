@@ -94,6 +94,7 @@
   - [Code4rena Audit (2025-11-5).pdf](./spl/Code4renaXSolanaFoundation-2025-11-5.pdf)
   - [Zellic Audit (2025-12-16).pdf](./spl/ZellicToken2022Audit-2025-12-16.pdf)
   - [Qedit Audit (2025-12-19).pdf](./spl/QeditToken2022Audit-2025-12-19.pdf)
+  - [Asymmetric Research Audit (2026-12-19).pdf](./spl/AsymmetricResearchToken2022Audit-2026-06-17.pdf)
 
 ### Account Compression
 

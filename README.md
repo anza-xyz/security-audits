@@ -125,6 +125,10 @@
   - [Zellic Audit (2026-03-26).pdf](./spl/ZellicPTokenAudit-2026-03-26.pdf)
   - [Certora Formal Verification (2026-05-11).pdf](./spl/CertoraPTokenFV-2026-05-11.pdf)
 
+### Program Metadata
+
+  - [Zellic Audit (2026-06-17).pdf](./spl/ZellicProgramMetadataAudit-2026-06-17.pdf)
+
 ## Core BPF Programs
 
 ### Address-Lookup-Table, Config, Feature-Gate

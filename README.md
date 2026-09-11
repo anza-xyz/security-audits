@@ -1,5 +1,17 @@
 # Solana Security Audits
 
+## Agave
+
+### v4.3
+
+  - [OtterSec Audit (2026-09-16).pdf](./agave/Agave_v4.3_Ottersec_Audit.pdf)
+  - [Neodyme Audit (2026-09-25).pdf](./agave/Agave_v4.3_Neodyme_Audit.pdf)
+
+### v4.2
+
+  - [OtterSec Audit (2026-08-19).pdf](./agave/Agave_v4.2_Ottersec_Audit.pdf)
+  - [Neodyme Audit (2026-08-31).pdf](./agave/Agave_v4.2_Neodyme_Audit.pdf)
+
 ## Solana
 
 ### v1.16

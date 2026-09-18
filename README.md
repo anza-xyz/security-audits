@@ -54,6 +54,16 @@
   - [NCC (2026-02-26).pdf](./spl/NCCBLS12-381andBLSSignature-2026-05-12.pdf)
   - [Least Authority Audit (2026-05-22).pdf](./spl/LeastAuthorityBLS12-381andBLSSignature-2026-05-22.pdf)
 
+### solana-ed25519
+
+  - [Least Authority Audit (2026-06-23).pdf](./solana/LeastAuthorityEd25519Audit-2026-06-23.pdf)
+
+## BPF Precompiles
+
+### P-256, secp256k1, and SBF Program
+
+  - [Least Authority Audit (2026-09-04).pdf](./bpf-precompiles/LeastAuthorityP256Secp256k1SBFProgramAudit-2026-09-04.pdf)
+
 ## Solana Program Library
 
 ### Token

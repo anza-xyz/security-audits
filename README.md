@@ -105,6 +105,7 @@
   - [Zellic Audit (2025-12-16).pdf](./spl/ZellicToken2022Audit-2025-12-16.pdf)
   - [Qedit Audit (2025-12-19).pdf](./spl/QeditToken2022Audit-2025-12-19.pdf)
   - [Asymmetric Research Audit (2026-12-19).pdf](./spl/AsymmetricResearchToken2022Audit-2026-06-17.pdf)
+  - [Zellic Audit (2026-09-24).pdf](./spl/ZellicToken2022Audit-2026-09-24.pdf)
 
 ### Account Compression
 

@@ -94,6 +94,7 @@
   - [Neodyme Audit (2023-11-14).pdf](./spl/NeodymeStakePoolAudit-2023-11-14.pdf)
   - [Halborn Audit (2023-12-31).pdf](./spl/HalbornStakePoolAudit-2023-12-31.pdf)
   - [Certora Formal Verification (2025-09-15).pdf](./spl/CertoraStakePoolFV-2025-09-15.pdf)
+  - [Neodyme Audit (2026-10-02).pdf](./spl/NeodymeStakePoolAudit-2026-10-02.pdf)
 
 ### Token Swap & Shared Memory
 

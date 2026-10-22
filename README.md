@@ -149,6 +149,10 @@
   - [Zellic Audit (2026-03-26).pdf](./spl/ZellicPTokenAudit-2026-03-26.pdf)
   - [Certora Formal Verification (2026-05-11).pdf](./spl/CertoraPTokenFV-2026-05-11.pdf)
 
+  ### P-ATA
+
+  - [Certora Formal Verification (2026-10-14).pdf](./spl/CertoraPAtaFV-2026-10-14.pdf)
+
 ### Program Metadata
 
   - [Zellic Audit (2026-06-17).pdf](./spl/ZellicProgramMetadataAudit-2026-06-17.pdf)

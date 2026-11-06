@@ -2,6 +2,11 @@
 
 ## Agave
 
+### v4.4
+
+  - [OtterSec Audit (2026-10-30).pdf](./agave/Agave_v4.4_Ottersec_Audit.pdf)
+  - [Neodyme Audit (2026-10-26).pdf](./agave/Agave_v4.4_Neodyme_Audit.pdf)
+
 ### v4.3
 
   - [OtterSec Audit (2026-09-16).pdf](./agave/Agave_v4.3_Ottersec_Audit.pdf)
